@@ -3,3 +3,56 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+body {
+  font-family: Arial, sans-serif;
+  color: white;
+  background-color: #0a0c1b;
+}
+
+.left {
+  width: 500px;
+  height: 380px;
+  background-color: #1c1938;
+  padding-left: 30px;
+  border-radius: 10px 0 0 10px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  padding-top: 300px;
+}
+
+h4 b {
+  color: #a85cd8;
+}
+
+h4 {
+  font-size: 40px;
+  padding-top: 30px;
+}
+.left article {
+  margin-top: 30px;
+  opacity: 60%;
+}
+
+.down {
+  display: flex;
+  margin-top: 70px;
+  word-spacing: 108px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+img {
+  width: 500px;
+  height: 380px;
+  border-radius: 0 10px 10px 0;
+}
+
+.last {
+  display: flex;
+  opacity: 60%;
+  word-spacing: 68px;
+}
