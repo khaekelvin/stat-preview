@@ -14,4 +14,4 @@ Your challenge is to build out this card component and get it looking as close t
 ![desktop-design](https://github.com/khaekelvin/stat-preview/assets/130221570/66846ad9-293d-44c7-9fa0-9783b30134c9)
 
 ### Result
-![Screenshot 2023-07-26 200007](https://github.com/khaekelvin/stat-preview/assets/130221570/80eac3c6-6693-422c-a4a7-7ad858c8e2c3)
+![lastbnewflx](https://github.com/khaekelvin/stat-preview/assets/130221570/80e0cae7-aaec-4106-a92e-8c08aa7ce8d7)
