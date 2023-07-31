@@ -21,7 +21,8 @@ body {
 .container {
   display: flex;
   justify-content: center;
-  padding-top: 300px;
+  height: 100vh;
+  align-items: center;
 }
 
 h4 b {
